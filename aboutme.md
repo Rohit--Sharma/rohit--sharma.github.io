@@ -6,11 +6,11 @@ subtitle: Office: 4235, Computer Sciences & Statistics, UW-Madison
 
 My name is Rohit Kumar Sharma. I am a first year Computer Science Masters student at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/).
 ### Coursework at UW-Madison:
-- CS744: [Big Data Systems]()
+- CS744: [Big Data Systems](http://pages.cs.wisc.edu/~shivaram/cs744-fa19/)
 - CS760: [Machine Learning](http://pages.cs.wisc.edu/~yliang/cs760_fall18/index.html)
 - CS766: [Computer Vision](http://pages.cs.wisc.edu/~mohitg/courses/CS766/)
-- CS838: [Learning Based Methods in Computer Vision]()
-- CS839: [Data Science](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2019)
+- CS838: [Learning Based Methods in Computer Vision](https://www.biostat.wisc.edu/~yli/bmi826_cs838_19fall/)
+- CS839: [Data Science: Algorithms and Principles](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2019)
 - CS537: [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/cs537.html)
 
 ### Teaching Assistant:
