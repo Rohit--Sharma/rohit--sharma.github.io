@@ -16,4 +16,4 @@ Prior to this, I graduated from [BITS Pilani](https://www.bits-pilani.ac.in/) wi
 
 ### Recent Updates
 
-- Our work on "Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer" has been accepted to appear in <a href="http://aacl2020.org/">AACL-IJCNLP 2020</a>.
+- Our work on "Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer" has been accepted to appear in [AACL-IJCNLP 2020](http://aacl2020.org/).
