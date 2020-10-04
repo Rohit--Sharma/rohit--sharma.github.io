@@ -12,8 +12,8 @@ I pursued MS in Computer Science from the [University of Wisconsin-Madison](http
 
 ### Coursework at UW-Madison
 
-- CS744: [Big Data Systems](http://pages.cs.wisc.edu/~shivaram/cs744-fa19/)
 - CS726: [Nonlinear Optimization I](http://www.jelena-diakonikolas.com/cs726-s20.html)
+- CS744: [Big Data Systems](http://pages.cs.wisc.edu/~shivaram/cs744-fa19/)
 - CS760: [Machine Learning](http://pages.cs.wisc.edu/~yliang/cs760_fall18/index.html)
 - CS761: [Mathematical Foundations of Machine Learning](https://nowak.ece.wisc.edu/cs761/)
 - CS766: [Computer Vision](http://pages.cs.wisc.edu/~mohitg/courses/CS766/)
