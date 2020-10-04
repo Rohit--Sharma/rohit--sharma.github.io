@@ -8,8 +8,6 @@ subtitle: Office: 4235, Computer Sciences & Statistics, UW-Madison
 
 ### Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer
 
-#### Abstract
-
 Fine-tuning (FT) pre-trained sentence embedding models on small datasets has been shown to have limitations.
 In this paper we show that concatenating the embeddings from the pretrained model with those from a simple sentence embedding model trained only on the target data, can improve over the performance of FT for few-sample tasks.
 To this end, a linear classifier is trained on the combined embeddings, either by freezing the embedding model weights or training the classifier and embedding models end-to-end.
@@ -28,7 +26,7 @@ We provide theoretical analysis to explain this empirical observation.
 In recent years, Transformer models have been widely used for various Natural Language Processing tasks and have achieved state-of-the-art accuracy.
 However, these models are computationally expensive and require a lot of time even for fine-tuning.
 In this work, we use various profiling techniques to understand the workload patterns of Transformer models.
-We introduce \system, a system that uses a caching mechanism to reduce the fine-tuning time for Transformer models.
+We introduce *FastTran*, a system that uses a caching mechanism to reduce the fine-tuning time for Transformer models.
 We also propose some future research directions that could further increase performance and reduce times for this workload.
 
 **Project Report:** [Big Data Course Project](./CS744_Project_Report.pdf)

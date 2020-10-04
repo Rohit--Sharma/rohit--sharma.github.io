@@ -16,6 +16,6 @@ Prior to this, I graduated from [BITS Pilani](https://www.bits-pilani.ac.in/) wi
 
 ### Recent Updates
 
-- *[Sep 2020]* Our work on "Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer" has been accepted to appear in [AACL-IJCNLP 2020](http://aacl2020.org/).
-- *[June 2020]* I joined Microsoft Azure Networking in Redmond, WA.
-- *[May 2019]* I started an internship at Bloomberg LP in New York, NY.
+- [*Sep 2020*] Our work on "Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer" has been accepted to appear in [AACL-IJCNLP 2020](http://aacl2020.org/).
+- [*June 2020*] I joined Microsoft Azure Networking in Redmond, WA.
+- [*May 2019*] I started an internship at Bloomberg LP in New York, NY.
